@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "136769568635",
+    "firebase_url": "https://bakenshake-b8354.firebaseio.com",
+    "project_id": "bakenshake-b8354",
+    "storage_bucket": "bakenshake-b8354.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136769568635:android:c5af0e337be59e68",
+        "android_client_info": {
+          "package_name": "com.example.bakenshake.bakenshake"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136769568635-uiqmqj8i7ffe0uqjm6efi00j3pjrd2r9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bakenshake.bakenshake",
+            "certificate_hash": "176b95197b1f6650dcd6f4e3cb9f6457fd507860"
+          }
+        },
+        {
+          "client_id": "136769568635-83hjeliqqhsr38pdshujpjg96amjbsnn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM83aOu0doM8O-cE72ysPu1l3jZteETMg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "136769568635-83hjeliqqhsr38pdshujpjg96amjbsnn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

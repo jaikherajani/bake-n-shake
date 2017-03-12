@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Bake\'n\'Shake</string>
+    <string name="action_synchronize">Sync</string>
+    <string name="action_reports">View Reports</string>
+    <string name="action_logout">Logout</string>
+    <string name="action_search">Search Order</string>
+
+    <string name="signin">Sign-In</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="search_hint">Order ID</string>
+    <string name="loading">Working. Please Wait !</string>
+
+    <string name="order_details">Order Details</string>
+    <string name="new_order">New Order</string>
+
+    <string name="hint_customer_name">Customer Name</string>
+    <string name="hint_customer_number">Customer Number</string>
+    <string name="hint_message">Message on Cake</string>
+    <string name="hint_delivery_address">Delivery Address</string>
+    <string name="eggless">Eggless</string>
+    <string name="hint_flavour">Flavour</string>
+    <string name="hint_weight">Weight in KGs</string>
+    <string name="place_order">Place Order</string>
+
+</resources>
